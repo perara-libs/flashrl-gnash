@@ -1,0 +1,3 @@
+[submodule "gnash"]
+	path = gnash
+	url = https://github.com/strk/gnash.git
