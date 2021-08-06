@@ -1,3 +1,4 @@
 [submodule "gnash"]
 	path = gnash
 	url = https://github.com/perara-libs/gnash.git
+	branch = main
